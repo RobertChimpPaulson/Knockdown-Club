@@ -1,6 +1,6 @@
 # Knockdown-Club
 Knockdown Club
-![Knockdown Banner](./b35f14df-87bf-4515-9ee9-f20924a1611c.png)
+![Knockdown Banner](./knockdown_banner.png)
 
 # Knockdown Club — Space Monkey Arena
 
