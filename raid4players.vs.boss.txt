@@ -1,0 +1,35 @@
+Filename: raid4players.vs.boss.txt
+
+Event Concept: Raid — 4 Space Monkeys vs Boss Pepe
+
+Overview:
+This is a Telegram-based event concept designed for the Knockdown Club game. In this raid, four players (Space Monkeys) team up in a turn-based combat system to battle a single powerful boss — an oversized, meme-powered version of Pepe the Frog.
+
+Boss: "Pepe the Frog"
+- Wears a black cloak and a golden crown
+- Speaks in sarcastic meme phrases like “Feels bad, monkey” or “You’ll never make it”
+- Special attacks include: "Ribbit Rage", "Degen Slam", and "Memecoin Blast"
+
+Gameplay (Mobile Style):
+- Players appear as four avatars at the bottom of the screen.
+- Each monkey attacks once per round — their damage depends on NFT gloves and equipped items.
+- The boss reacts after each attack with animations and taunts.
+- Boss has multiple phases (more damage, more sarcasm).
+- UI includes health bars for all monkeys and the boss, as well as a “combo meter”.
+
+Winning:
+- If the team defeats Pepe, a reward screen appears.
+- All participants get loot: NFTs, fight points, or event-only gear.
+- A special NFT title: “Pepe Slayer” is awarded to MVP.
+
+Visual Style:
+- Retro 16-bit pixel art
+- Arena: underground gym/cyberpunk warehouse
+- Sega/Dendy arcade game aesthetic
+- Flashy visual FX and impact animations
+
+Purpose:
+- Fun community-driven event
+- A reason to form squads
+- A use-case for cosmetic and stat-boosting NFTs
+- A callback to Web3 meme culture and anti-corporate spirit
