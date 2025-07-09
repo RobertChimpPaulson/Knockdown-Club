@@ -1,0 +1,57 @@
+Project Concept: Space Monkey Arena (Telegram Game)
+
+Overview:
+Space Monkey Arena is a Telegram-based NFT game inspired by the spirit of Fight Club. Players take on the role of Space Monkeys—rebellious fighters in an underground movement resisting corporate control. With character customization, tactical fights, leveling, and event raids, this game merges anti-system narrative with blockchain economy.
+
+Gameplay Flow:
+
+1. Entry Point:
+- The main interface is not a classic menu, but a bunker or an abandoned warehouse filled with Space Monkeys training, smoking, and unpacking gear.
+- Narrator voice in Tyler Durden style sets the tone: "You are not your monkey. You are what you’re willing to destroy."
+
+2. Create Your Fighter (NFT):
+- Procedurally generated monkey avatars.
+- Choose body type, face, scars, gloves, shorts, tattoos.
+- Each fighter is an NFT — tradable, upgradable, and burnable.
+
+3. Game Modes:
+- 1v1 Fight: Quick matchmaking battles with point rewards.
+- Ranked Mode: Compete in the “Underground Glory” leaderboard.
+- Raids: Team-based missions against corporate bosses and systems.
+- Events: Monthly tournaments with real NFT stakes.
+- Customization: Change appearance, earn and equip cosmetic/utility items.
+
+4. Story Layer (optional but immersive):
+- Secret group: “Project Mayhem 2.0”.
+- Enemy: “MRKT Industries” — the face of centralized control.
+- Player can specialize as fighter, recruiter, tailor, or tactical planner.
+
+Progression & Rewards:
+- XP and leveling system.
+- NFT gear: gloves, boots, masks, jackets, scars.
+- Titles: “Initiated”, “The Ghost”, “Anarchist”, etc.
+- Rare items can grant bonus perks during fights or raids.
+
+Events & Engagement:
+- Corporate Raids: Mass community strike events.
+- Generator Control: Only one player earns a Genesis NFT.
+- Meditation Room: Burn your NFT for hidden upgrades or transformation.
+
+Economy:
+- All fighters and items are NFTs on TON chain.
+- Boxes can be opened with in-game currency or TON.
+- Trade, stake, or burn NFTs for exclusive access or power-ups.
+
+Social Features:
+- Cells (clubs or clans) for organizing team raids and identity.
+- Leaderboards based on damage, contributions, and influence.
+- Gifting NFTs to allies or burning enemy trophies.
+
+Key Terms:
+- Space Monkey ID: your monkey NFT identity.
+- PermaFight: a high-stakes mode where your NFT can be lost permanently.
+- Operation Knockdown: monthly raid to disrupt “MRKT Industries”.
+- Club Code: internal rules of respect and contribution.
+
+Conclusion:
+Space Monkey Arena is more than a game — it’s an experience, a rebellion, and a digital brotherhood. Inside Telegram, outside the system.
